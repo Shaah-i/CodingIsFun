@@ -19,7 +19,7 @@ If you find the repo interesting please mark a star. Also dont hesitate to fork 
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Shaah-i&color=36393f&style=flat&label=VIEWERS" alt="Shaah-i" />
+  <img src="https://komarev.com/ghpvc/?username=Shaah-i&color=36393f&style=flat&label=VIEWS" alt="Shaah-i" />
 </p>
 
 <a href="https://www.linkedin.com/in/shubham-shaah/"><img src="https://img.shields.io/static/v1?logo=Sahibinden&label=&message=Shaah-i&color=36393f&style=flat-square" alt="Shaah-i" align="right"></a>
